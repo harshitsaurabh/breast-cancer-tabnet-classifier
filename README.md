@@ -5,16 +5,14 @@ This project trains a TabNet model on the Breast Cancer Wisconsin dataset to pre
 ## Project Structure 
 
 breast-cancer-tabnet-classifier/
+
 │
 ├── data/ # Place dataset(s) here
 │ └── breast-cancer-wisconsin-data_data.csv 
-
 ├── notebooks/
 │ └── exploratory_analysis.ipynb # Data exploration notebook
-
 ├── src/
 │ └── breast_cancer_tabnet.py # Training + evaluation script
-
 ├── README.md
 ├── requirements.txt # Dependencies
 
