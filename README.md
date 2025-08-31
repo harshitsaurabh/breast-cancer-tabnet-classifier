@@ -10,7 +10,7 @@ This project trains a Random Forest model on the Breast Cancer Wisconsin dataset
 
 ### How to Add Data
 1. Download the CSV dataset from Kaggle or UCI ML Repository.
-2. Place the file in the `data/` folder:
+2. Place the file in the `data/` folder.
 
 # Getting Started 
 ### 1. Clone the Repository
