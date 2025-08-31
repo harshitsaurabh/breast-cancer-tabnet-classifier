@@ -1,4 +1,4 @@
-# breast-cancer-tabnet-classifier
+# breast-cancer-malignancy-classifier
 
 This project trains a Random Forest model on the Breast Cancer Wisconsin dataset to predict malignancy.
 
