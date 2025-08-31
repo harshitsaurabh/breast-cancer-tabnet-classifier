@@ -2,28 +2,6 @@
 
 This project trains a TabNet model on the Breast Cancer Wisconsin dataset to predict malignancy.
 
-## Project Structure 
-
-breast-cancer-tabnet-classifier/
-
-│
-
-├── data/ # Place dataset(s) here
-
-│ └── breast-cancer-wisconsin-data_data.csv 
-
-├── notebooks/
-
-│ └── exploratory_analysis.ipynb # Data exploration notebook
-
-├── src/
-
-│ └── breast_cancer_tabnet.py # Training + evaluation script
-
-├── README.m
-
-├── requirements.txt # Dependencies
-
 
 # Dataset
 - **Source**: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
