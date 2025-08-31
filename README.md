@@ -31,5 +31,5 @@ python notebooks/exploratory_analysis.py
 
 ### 4. Train & Evaluate the Model
 ```bash
-python src/breast_cancer_tabnet.py
+python src/breast_cancer_rf_classifier.py
 ```
