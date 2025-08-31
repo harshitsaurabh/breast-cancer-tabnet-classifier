@@ -1,5 +1,10 @@
-pandas
-numpy
-scikit-learn
-torch
-pytorch-tabnet
+# Data processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
