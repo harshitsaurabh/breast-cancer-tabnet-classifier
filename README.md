@@ -15,7 +15,7 @@ This project trains a Random Forest model on the Breast Cancer Wisconsin dataset
 # Getting Started 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/breast-cancer-tabnet-classifier.git
+git clone https://github.com/harshitsaurabh/breast-cancer-tabnet-classifier.git
 cd breast-cancer-tabnet-classifier
 ```
 
